@@ -1,4 +1,7 @@
 import Exo_3_1.Personne;
+import Exo_3_1.IngenieurReseau;
+import Exo_3_1.IngenieurLogiciel;
+
 
 class Main {
   
