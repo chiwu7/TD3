@@ -1,4 +1,4 @@
-package Exo_1;
+package Exo_1_1;
 
 public class Point
 {

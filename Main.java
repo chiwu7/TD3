@@ -1,11 +1,11 @@
-import Exo_1.PointA;
+import Exo_1_2.PointNom;
 
 class Main {
   
   public static void main(String[] args) {
-    PointA simon = new PointA();
-    simon.initialise(7,3);
-    simon.Afficher();
+    PointNom simon = new PointNom();
+    simon.setPointNom(3,4,"simon");
+    simon.affCoordNom();
   }
   
 }
