@@ -11,7 +11,7 @@ public class Point
   x += dx ;
   y += dy ;
   }
-  
+  //yo
   public int getX() {
   return x ;
   }
